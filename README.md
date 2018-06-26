@@ -1,2 +1,2 @@
 # TestRepo
-This will be where I tell you about my project
+First and foremost, this is a search for knowledge.
